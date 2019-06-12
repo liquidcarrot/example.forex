@@ -18,3 +18,7 @@ FOREX Trading Bot example with Liquid Carrot
 | --- | --- | --- |
 
 
+## NinjaTrader
+
+Simulator/Free Historical Data:
+https://ninjatrader.com/Simulate
