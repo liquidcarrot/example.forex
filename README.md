@@ -20,8 +20,9 @@ FOREX Trading Bot example with Liquid Carrot
 
 ## Historic Data Sources
 
->**Open Source - API**
-* https://exchangeratesapi.io/
+**Exchange Rates - API**
+>Open Source API to Forex Data
+* [Website](https://exchangeratesapi.io/)
 * [Github Repo](https://github.com/exchangeratesapi/exchangeratesapi)
 
 **NinjaTrader**
@@ -30,5 +31,7 @@ FOREX Trading Bot example with Liquid Carrot
 
 ## For Demo Accounts
 
-* Hugo's Way has a free demo account to trade off of
+**Hugo's Way Free Demo Account**
+>Easy to use Forex Broker 
+* [Website for Demo Sign Up](https://hugosway.com/demo-sign-up/)
   * Just ask me for the info and I can get it over to you ✊
