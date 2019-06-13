@@ -15,9 +15,10 @@ FOREX Trading Bot example with Liquid Carrot
 **TradingView**
 >Website Integration Solutions
 * [Website](https://www.tradingview.com/tradingview-for-the-web/)
- * Widgets
- * Charts
+ * [Features](https://www.tradingview.com/features/)
+ * [Additional Info( * [Features](https://www.tradingview.com/features/)
  * Free Data
+ * Simulator (Paper Trader)
 
 ## Keywords
 
