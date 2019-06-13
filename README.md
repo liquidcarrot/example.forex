@@ -12,6 +12,13 @@ FOREX Trading Bot example with Liquid Carrot
 >Global FOREX exchange (MT4 Bridge)
 * [Website](https://www.gaincapital.com/index.shtml)
 
+**TradingView**
+>Website Integration Solutions
+* [Website](https://www.tradingview.com/tradingview-for-the-web/)
+ * Widgets
+ * Charts
+ * Free Data
+
 ## Keywords
 
 | MT4 Bridge | FOREX | RESTful API |
