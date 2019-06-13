@@ -20,10 +20,10 @@ FOREX Trading Bot example with Liquid Carrot
 
 ## Historic Data Sources
 
-**Free API - Open Source**
-https://exchangeratesapi.io/
-https://github.com/exchangeratesapi/exchangeratesapi
+>**Open Source - API**
+* https://exchangeratesapi.io/
+* [Github Repo] (https://github.com/exchangeratesapi/exchangeratesapi)
 
 **NinjaTrader**
-Simulator/Free Historical Data:
-https://ninjatrader.com/Simulate
+>Simulator/Free Historical Data:
+* https://ninjatrader.com/Simulate
