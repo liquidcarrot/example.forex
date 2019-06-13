@@ -31,4 +31,4 @@ FOREX Trading Bot example with Liquid Carrot
 ## For Demo Accounts
 
 * Hugo's Way has a free demo account to trade off of
-  * Just ask me for the info and I can get it over to you :+1
+  * Just ask me for the info and I can get it over to you ✊
