@@ -19,6 +19,10 @@ FOREX Trading Bot example with Liquid Carrot
   * [Other Cool Stuff](https://www.tradingview.com/tradingview-for-the-web/)
   * Free Data
   * Simulator (Paper Trader)
+  
+**Trader's Way Web-Trading Platform**
+>Allows users to trade through the web instead of MT4
+* [Website](https://ct.tradersway.com/)
 
 ## Keywords
 
@@ -43,3 +47,8 @@ FOREX Trading Bot example with Liquid Carrot
 >Easy to use Forex Broker 
 * [Website for Demo Sign Up](https://hugosway.com/demo-sign-up/)
   * Just ask me for the info and I can get it over to you ✊
+  
+**Trader's Way Demo Account**
+>Current Broker with easy affilliate and web-trading access
+* [Website for Demo Sign Up](https://www.tradersway.com/)
+
